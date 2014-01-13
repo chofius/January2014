@@ -7,7 +7,6 @@
 --SUBSLIDE--
 
 <h2>Sub Slide 0--1</h2>
-<img src="images/intro.png" style="max-height: 450px;">
 
 --SUBSLIDE--
 
@@ -26,18 +25,19 @@ This is an inline link to [CNN](http://cnn.com/ "Link to CNN").
 
 --SUBSLIDE--
 
+
 <h2></h2>
 ![Markdown Image] (images/steep_slope.png)
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: zzz -->
 
-<h1>Slide 2</h1>
+<h1>Why</h1>
 
 --SUBSLIDE--
 
 <h2>Sub Slide 2--1</h2>
-
+<img src="images/WhidbeyLandslide.jpg” style="max-height: 450px;">
 --SUBSLIDE--
 
 <h2>Sub Slide 2--2</h2>
