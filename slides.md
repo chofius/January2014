@@ -27,7 +27,7 @@ This is an inline link to [CNN](http://cnn.com/ "Link to CNN").
 --SUBSLIDE--
 
 <h2></h2>
-![Markdown Image] (images/Steepslope)
+![Markdown Image] (images/steep_slope.png)
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: zzz -->
