@@ -7,7 +7,7 @@
 --SUBSLIDE--
 
 <h2>Sub Slide 0--1</h2>
-
+<img src="images/intro.png" style="max-height: 450px;">
 
 --SUBSLIDE--
 
@@ -27,7 +27,7 @@ This is an inline link to [CNN](http://cnn.com/ "Link to CNN").
 --SUBSLIDE--
 
 <h2>Sub Slide 1--2</h2>
-<img src="images/Steepslope style="max-height: 450px;">
+<img src=“images/intro.png” style=“max-height: 450px;”>
 
 <!------------------------------------------------------------>
 --SLIDE--
