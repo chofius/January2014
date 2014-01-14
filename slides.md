@@ -2,22 +2,14 @@
 <!-- Topic: xxx -->
 
 <h1>Langley</h1>
-![Markdown Image](images/about.png)
+![Markdown Image](images/download.jpeg)
 
---SUBSLIDE--
-
-<h2>Sub Slide 0--1</h2>
-
---SUBSLIDE--
-
-<h2>Sub Slide 0--2</h2>
-This is an inline link to [CNN](http://cnn.com/ "Link to CNN").
 
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: yyy -->
 
-<h1>What we are doing</h1>
+<h1>What we are doing...</h1>
 
 --SUBSLIDE--
 
@@ -33,14 +25,17 @@ This is an inline link to [CNN](http://cnn.com/ "Link to CNN").
 --SLIDE--
 <!-- Topic: zzz -->
 
-<h1>Why</h1>
+<h1>Why...</h1>
 
 --SUBSLIDE--
 
-<h2>Sub Slide 2--1</h2>
+<h2>Participation
+Collabortion
+Problem Solving</h2>
 
-<img src="images/WhidbeyLandslide.jpg” style="max-height: 450px;">
+
 
 --SUBSLIDE--
 
-<h2>Sub Slide 2--2</h2>
+<h2></h2>
+![Markdown Image](images/WhidbeyLandslide.jpg)
